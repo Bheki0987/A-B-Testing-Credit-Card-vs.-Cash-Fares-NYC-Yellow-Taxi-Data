@@ -64,7 +64,7 @@ We were tasked with using statistical testing to determine whether **passengers 
 
 ## 📂 Files in This Repository
 
-- `Automatidata_AB_Test_Notebook.ipynb`: Jupyter notebook with full code and analysis
+- `Automatidata_AB_Test.ipynb`: Jupyter notebook with full code and analysis
 - `Executive_Summary.pdf`: 1-page summary of insights and recommendations
 - `PACE_Strategy_Document.pdf`: Answers to project planning and reflection questions
 - `README.md`: This project documentation
